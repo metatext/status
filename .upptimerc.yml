@@ -4,10 +4,6 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Inference API
-    url: https://www.google.com
-  - name: Training API (AutoNLP.ai)
-    url: https://en.wikipedia.org
   - name: API endpoint with data
     method: POST
     url: $INFERENCE_API/models/$MODEL_ID
@@ -31,6 +27,6 @@ status-website:
       href: /
     - title: Metatext
       href: https://metatext.io
-
+      
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

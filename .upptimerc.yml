@@ -4,7 +4,7 @@ sites:
   - name: Metatext
     url: https://www.google.com
   - name: Inference API
-    url: https://aws.amazon.com/
+    url: https://fvd1htho55.execute-api.eu-west-1.amazonaws.com/v1/ping
 assignees:
   - rafaelsandroni
 status-website:

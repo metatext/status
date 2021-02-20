@@ -7,7 +7,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Inference API
-    url: https://fvd1htho55.execute-api.eu-west-1.amazonaws.com/v1/ping
+    url: https://aws.amazon.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

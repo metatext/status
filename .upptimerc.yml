@@ -13,7 +13,7 @@ sites:
     url: $INFERENCE_API/models/$MODEL_ID
     headers:
       - "Content-Type: application/json"
-      - "API_KEY: " $API_KEY
+      - "API_KEY: $API_KEY"
     body: '{ "text": "ping" }'
 
 status-website:

@@ -6,8 +6,6 @@ repo: status # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Inference API
-    url: https://fvd1htho55.execute-api.eu-west-1.amazonaws.com/v1/ping
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -16,7 +14,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   theme: dark
-  
+
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Metatext.io Status API
   introTitle: "**Status** of our AI services. Here you found our API's health, such as latency and incidents."

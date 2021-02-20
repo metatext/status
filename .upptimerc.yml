@@ -4,14 +4,10 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
+  - name: Inference API
     url: https://www.google.com
-  - name: Wikipedia
+  - name: Training API (AutoNLP.ai)
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -20,14 +16,16 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
-  introTitle: "**Status** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Metatext.io Status API
+  introTitle: "**Status** of our AI services. Here you found our API's health, such as latency and incidents."
+  introMessage: Metatext provide machine learning models in a game changing ease to use, with best accuracy and performance. 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Metatext
+      href: https://metatext.io
+    - title: AutoNLP.ai
+      href: https://autonlp.ai
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

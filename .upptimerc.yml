@@ -24,8 +24,6 @@ status-website:
       href: /
     - title: Metatext
       href: https://metatext.io
-    - title: AutoNLP.ai
-      href: https://autonlp.ai
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

@@ -1,9 +1,17 @@
 # Change these first
-owner: metatext # Your GitHub username
+owner: rafaelsandroni # Your GitHub username
 repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: Google
+    url: https://www.google.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+  - name: Hacker News	
+    url: https://news.ycombinator.com	
+  - name: Broken Site	
+    url: https://thissitedoesnotexist.com
   - name: API endpoint with data
     method: POST
     url: $INFERENCE_API/models/$MODEL_ID

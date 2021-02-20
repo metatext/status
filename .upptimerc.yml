@@ -6,6 +6,8 @@ repo: status # Your GitHub repository name
 sites:
   - name: Google
     url: https://www.google.com
+  - name: Inference API
+    url: $INFERENCE_API/ping
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

@@ -4,8 +4,8 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Metatext
+    url: https://www.metatext.io
   - name: Inference API
     url: https://aws.amazon.com/
 

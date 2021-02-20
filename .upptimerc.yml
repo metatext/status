@@ -1,17 +1,18 @@
 # Change these first
-owner: rafaelsandroni # Your GitHub username
+owner: metatext # Your GitHub username
 repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News	
-    url: https://news.ycombinator.com	
-  - name: Broken Site	
-    url: https://thissitedoesnotexist.com
+  - name: Inference API
+    method: POST
+    url: $INFERENCE_API/models/$MODEL_ID
+    headers:
+      - "Content-Type: application/json"
+      - "API_KEY: $API_KEY"
+    body: '{ "text": "ping" }'
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -26,6 +27,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Metatext
+      href: https://metatext.io
       
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

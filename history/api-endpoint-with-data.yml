@@ -1,7 +1,7 @@
 url: $INFERENCE_API/models/$MODEL_ID
 status: up
 code: 200
-responseTime: 700
-lastUpdated: 2021-02-20T01:14:42.614Z
+responseTime: 723
+lastUpdated: 2021-02-20T01:15:15.112Z
 startTime: Sat Feb 20 2021 01:09:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

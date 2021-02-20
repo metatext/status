@@ -1,23 +1,21 @@
 [
   {
-    "name": "Metatext",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "metatext",
+    "name": "Metatext UI",
+    "url": "https://metatext.io",
+    "icon": "https://favicons.githubusercontent.com/metatext.io",
+    "slug": "metatext-ui",
     "status": "up",
-    "uptime": "6.87%",
-    "uptimeDay": "6.87%",
-    "uptimeWeek": "6.87%",
-    "uptimeMonth": "6.87%",
-    "uptimeYear": "6.87%",
-    "time": 141,
-    "timeDay": 141,
-    "timeWeek": 141,
-    "timeMonth": 141,
-    "timeYear": 141,
-    "dailyMinutesDown": {
-      "2021-02-20": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 152,
+    "timeDay": 152,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Inference API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 478,
-    "timeWeek": 478,
-    "timeMonth": 478,
-    "timeYear": 478,
+    "time": 606,
+    "timeDay": 606,
+    "timeWeek": 606,
+    "timeMonth": 606,
+    "timeYear": 606,
     "dailyMinutesDown": {}
   }
 ]

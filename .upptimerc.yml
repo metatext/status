@@ -8,6 +8,13 @@ sites:
     url: https://www.google.com
   - name: Training API (AutoNLP.ai)
     url: https://en.wikipedia.org
+  - name: API endpoint with data
+    method: POST
+    url: $INFERENCE_API/models/$MODEL_ID
+    headers:
+      - "Content-Type: application/json"
+      - "API_KEY: " $API_KEY
+    body: '{ "text": "ping" }'
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

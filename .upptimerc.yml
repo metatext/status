@@ -1,14 +1,14 @@
 owner: metatext
 repo: status
 sites:
-  - name: Metatext
-    url: https://www.google.com
+  - name: Metatext UI
+    url: https://metatext.io
   - name: Inference API
     url: https://fvd1htho55.execute-api.eu-west-1.amazonaws.com/v1/ping
 assignees:
   - rafaelsandroni
 status-website:
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://metatext.io/favicon.png
   name: Metatext Status
   introTitle: "**Status** of our AI services. Here you found our API's health, such as latency and incidents."

@@ -15,7 +15,6 @@ status-website:
   baseUrl: /status
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  theme: dark
   
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Metatext.io Status API

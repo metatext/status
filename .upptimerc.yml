@@ -9,12 +9,15 @@ sites:
     icon: https://aws.amazon.com/favicon.ico
   - name: Training API
     url: $INFERENCE_API/ping
-    icon: https://aws.amazon.com/favicon.ico
+    icon: https://aws.amazon.com/favicon.icopush
 assignees:
   - rafaelsandroni
 status-website:
   baseUrl: /status
   logoUrl: https://metatext.io/favicon.png
   name: Metatext APIs
-  introTitle: "**AI services** status. Here you monitor our API's health, such as latency and incidents."
-  introMessage: 
+  introTitle: Metatext Status Dashboard
+  introMessage: This page provides status information on the services that are part of Metatext Cloud Platform. Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please open an issue on Support page. 
+  navbar:
+    - title: Support (Open issue)
+      href: https://github.com/metatext/status/issues

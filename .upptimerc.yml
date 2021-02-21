@@ -19,5 +19,5 @@ status-website:
   introTitle: Metatext Status Dashboard
   introMessage: This page provides status information on the services that are part of Metatext Cloud Platform. Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please open an issue on Support page. 
   navbar:
-    - title: Support (Open issue)
+    - title: Support 
       href: https://github.com/metatext/status/issues

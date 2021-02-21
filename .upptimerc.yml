@@ -5,10 +5,13 @@ sites:
     url: https://metatext.io
   - name: Inference API
     url: https://fvd1htho55.execute-api.eu-west-1.amazonaws.com/v1/ping
+  - name: Training API
+    url: $INFERENCE_API/ping
 assignees:
   - rafaelsandroni
 status-website:
   baseUrl: /status
   logoUrl: https://metatext.io/favicon.png
-  name: Metatext Status
-  introTitle: "**Status** of our AI services. Here you found our API's health, such as latency and incidents."
+  name: Metatext APIs
+  introTitle: "**AI services** status. Here you monitor our API's health, such as latency and incidents."
+  introMessage: 

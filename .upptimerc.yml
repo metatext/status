@@ -9,7 +9,7 @@ sites:
     icon: https://aws.amazon.com/favicon.ico
   - name: Training API
     url: $INFERENCE_API/ping
-    icon: https://aws.amazon.com/favicon.icopush
+    icon: https://aws.amazon.com/favicon.ico
 assignees:
   - rafaelsandroni
 status-website:

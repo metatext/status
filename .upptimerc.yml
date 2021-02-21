@@ -3,10 +3,13 @@ repo: status
 sites:
   - name: Metatext UI
     url: https://metatext.io
+    icon: https://metatext.io/favicon.png
   - name: Inference API
     url: https://fvd1htho55.execute-api.eu-west-1.amazonaws.com/v1/ping
+    icon: https://aws.amazon.com/favicon.ico
   - name: Training API
     url: $INFERENCE_API/ping
+    icon: https://aws.amazon.com/favicon.ico
 assignees:
   - rafaelsandroni
 status-website:

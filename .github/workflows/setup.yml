@@ -47,7 +47,7 @@ jobs:
       - name: Generate graphs
         uses: benc-uk/workflow-dispatch@v1
         with:
-          workflow: Graphs CI
+          workflow: Graphs CI main
           token: ${{ secrets.GH_PAT }}
       - name: Generate site
         uses: upptime/uptime-monitor@v1.24.4

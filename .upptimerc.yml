@@ -13,7 +13,7 @@ sites:
 assignees:
   - rafaelsandroni
 status-website:
-  baseUrl: /status
+  cname: status.metatext.io
   logoUrl: https://metatext.io/favicon.png
   icon: https://metatext.io/favicon.png
   name: Metatext

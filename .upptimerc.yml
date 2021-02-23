@@ -15,6 +15,7 @@ assignees:
 status-website:
   cname: status.metatext.io
   logoUrl: https://metatext.io/favicon.png
+  favicon: https://metatext.io/favicon.png
   icon: https://metatext.io/favicon.png
   name: Metatext
   introTitle: Metatext Status Dashboard

@@ -4,12 +4,15 @@ sites:
   - name: Metatext UI
     url: https://metatext.io
     icon: https://metatext.io/favicon.png
-  - name: Inference API
-    url: $INFERENCE_API/ping
-    icon: https://aws.amazon.com/favicon.ico
+
   - name: Training API
     url: $INFERENCE_API/ping
     icon: https://aws.amazon.com/favicon.ico
+    
+  - name: Inference API
+    url: $INFERENCE_API/ping
+    icon: https://aws.amazon.com/favicon.ico
+    
 assignees:
   - rafaelsandroni
 status-website:

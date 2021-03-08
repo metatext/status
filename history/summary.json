@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 148,
-    "timeWeek": 145,
-    "timeMonth": 140,
-    "timeYear": 140,
+    "time": 139,
+    "timeDay": 140,
+    "timeWeek": 142,
+    "timeMonth": 139,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://aws.amazon.com/favicon.ico",
     "slug": "training-api",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 663,
-    "timeDay": 723,
-    "timeWeek": 1084,
-    "timeMonth": 663,
-    "timeYear": 663,
+    "uptime": "99.98%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 655,
+    "timeDay": 654,
+    "timeWeek": 1020,
+    "timeMonth": 655,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2021-03-08": 3
+      "2021-03-08": 5
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 492,
-    "timeDay": 102,
-    "timeWeek": 106,
-    "timeMonth": 492,
-    "timeYear": 492,
+    "time": 484,
+    "timeDay": 107,
+    "timeWeek": 108,
+    "timeMonth": 484,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2021-03-07": 4
     }

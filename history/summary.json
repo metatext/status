@@ -11,30 +11,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 140,
-    "timeWeek": 142,
+    "timeDay": 136,
+    "timeWeek": 140,
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
     "name": "Training API",
-    "url": "$INFERENCE_API/models/test-modelcat cu",
+    "url": "$TRAINING_ENDPOINT",
     "icon": "https://aws.amazon.com/favicon.ico",
     "slug": "training-api",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 655,
     "timeDay": 654,
     "timeWeek": 1020,
     "timeMonth": 655,
     "timeYear": 655,
     "dailyMinutesDown": {
-      "2021-03-08": 5
+      "2021-03-08": 6
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.96%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 484,
-    "timeDay": 107,
-    "timeWeek": 108,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "time": 482,
+    "timeDay": 160,
+    "timeWeek": 132,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2021-03-07": 4
     }

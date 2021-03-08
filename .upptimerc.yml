@@ -7,7 +7,7 @@ sites:
 
   - name: Training API
     method: POST
-    url: $INFERENCE_API/models/test-modelcat cu
+    url: $TRAINING_ENDPOINT
     icon: https://aws.amazon.com/favicon.ico
     headers:
      - "API_KEY: $API_KEY"

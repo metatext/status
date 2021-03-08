@@ -6,8 +6,14 @@ sites:
     icon: https://metatext.io/favicon.png
 
   - name: Training API
-    url: $INFERENCE_API/ping
+    method: POST
+    url: $INFERENCE_API/models/test-modelcat cu
     icon: https://aws.amazon.com/favicon.ico
+    headers:
+     - "API_KEY: $API_KEY"
+     - "Content-Type: application/json"
+    body: '{ "text": "hello world" }'
+
     
   - name: Inference API
     url: $INFERENCE_API/ping

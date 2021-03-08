@@ -22,19 +22,19 @@
     "url": "$TRAINING_ENDPOINT",
     "icon": "https://aws.amazon.com/favicon.ico",
     "slug": "training-api",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 655,
-    "timeDay": 654,
-    "timeWeek": 1020,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 693,
+    "timeDay": 869,
+    "timeWeek": 1084,
+    "timeMonth": 693,
+    "timeYear": 693,
     "dailyMinutesDown": {
-      "2021-03-08": 6
+      "2021-03-08": 26
     }
   },
   {

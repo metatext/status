@@ -1,7 +1,7 @@
-url: $INFERENCE_API/ping
-status: up
-code: 200
-responseTime: 1318
-lastUpdated: 2021-03-07T23:06:36.387Z
+url: $INFERENCE_API/models/test-modelcat cu
+status: down
+code: 404
+responseTime: 431
+lastUpdated: 2021-03-08T18:05:35.781Z
 startTime: Sun Feb 21 2021 00:17:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

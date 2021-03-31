@@ -1,7 +1,7 @@
 url: $TRAINING_ENDPOINT
 status: up
 code: 200
-responseTime: 835
-lastUpdated: 2021-03-30T23:11:39.470Z
+responseTime: 713
+lastUpdated: 2021-03-31T23:11:43.117Z
 startTime: Sun Feb 21 2021 00:17:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

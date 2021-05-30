@@ -1,7 +1,7 @@
 url: $INFERENCE_API/ping
 status: up
 code: 200
-responseTime: 154
-lastUpdated: 2021-05-29T23:23:29.899Z
+responseTime: 142
+lastUpdated: 2021-05-30T23:28:17.454Z
 startTime: Sun Feb 21 2021 00:17:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,11 +1,21 @@
 owner: metatext
 repo: status
 sites:
-  - name: Metatext UI
-    url: https://metatext.io
+  - name: Metatext Website (metatext.ai)
+    method: GET
+    url: https://metatext.ai
     icon: https://metatext.io/favicon.png
+    expectedStatusCodes:
+     - 200
+     
+  - name: Metatext App UI (app.metatext.ai)
+    method: GET
+    url: https://app.metatext.ai
+    icon: https://metatext.io/favicon.png
+    expectedStatusCodes:
+     - 200
 
-  - name: Training API
+  - name: Training API (api.metatext.ai/v1/training)
     method: POST
     url: $TRAINING_ENDPOINT
     icon: https://aws.amazon.com/favicon.ico
@@ -16,9 +26,16 @@ sites:
     expectedStatusCodes:
      - 200
     
-  - name: Inference API
-    url: $INFERENCE_API/ping
+  - name: Inference API (api.metatext.ai/v1/inference)
+    method: POST
+    url: $INFERENCE_API
     icon: https://aws.amazon.com/favicon.ico
+    headers:
+     - "API_KEY: $API_KEY"
+     - "Content-Type: application/json"
+    body: '{ "text": "hello world" }'
+    expectedStatusCodes:
+     - 200
 
 workflowSchedule:
   graphs: "*/30 * * * *"

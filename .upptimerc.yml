@@ -1,14 +1,14 @@
 owner: metatext
 repo: status
 sites:
-  - name: Metatext Website (metatext.ai)
+  - name: Metatext (metatext.ai)
     method: GET
     url: https://metatext.ai
     icon: https://metatext.io/favicon.png
     expectedStatusCodes:
      - 200
      
-  - name: Metatext App UI (app.metatext.ai)
+  - name: Metatext App (app.metatext.ai)
     method: GET
     url: https://app.metatext.ai
     icon: https://metatext.io/favicon.png

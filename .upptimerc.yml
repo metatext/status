@@ -20,7 +20,7 @@ sites:
     url: $TRAINING_ENDPOINT
     icon: https://aws.amazon.com/favicon.ico
     headers:
-     - "API_KEY: $API_KEY"
+     - "x-api-key: $API_KEY"
      - "Content-Type: application/json"
     body: '{ "text": "hello world" }'
     expectedStatusCodes:
@@ -31,7 +31,7 @@ sites:
     url: $INFERENCE_API
     icon: https://aws.amazon.com/favicon.ico
     headers:
-     - "API_KEY: $API_KEY"
+     - "x-api-key: $API_KEY"
      - "Content-Type: application/json"
     body: '{ "text": "hello world" }'
     expectedStatusCodes:

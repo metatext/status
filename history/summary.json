@@ -54,21 +54,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Inference API (api.metatext.ai/v1/inference)",
+    "name": "Inference API (api.metatext.ai/v1/models)",
     "url": "$INFERENCE_API",
     "icon": "https://aws.amazon.com/favicon.ico",
-    "slug": "inference-api-api-metatext-ai-v1-inference",
+    "slug": "inference-api-api-metatext-ai-v1-models",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 101,
-    "timeWeek": 101,
-    "timeMonth": 101,
-    "timeYear": 101,
+    "time": 87,
+    "timeDay": 87,
+    "timeWeek": 87,
+    "timeMonth": 87,
+    "timeYear": 87,
     "dailyMinutesDown": {}
   }
 ]

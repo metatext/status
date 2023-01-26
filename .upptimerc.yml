@@ -26,7 +26,7 @@ sites:
     expectedStatusCodes:
      - 200
     
-  - name: Inference API (api.metatext.ai/v1/inference)
+  - name: Inference API (api.metatext.ai/v1/models)
     method: POST
     url: $INFERENCE_API
     icon: https://aws.amazon.com/favicon.ico

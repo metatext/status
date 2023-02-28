@@ -37,9 +37,9 @@ sites:
     expectedStatusCodes:
      - 200
      
-  - name: Blog API
-    method: GET
-    url: https://api.metatext.api/v1/pipeline/blog/pages
+  - name: PIPELINE API
+    method: POST
+    url: $PIPELINE_API
     icon: https://aws.amazon.com/favicon.ico
     expectedStatusCodes:
      - 200

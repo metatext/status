@@ -70,5 +70,23 @@
     "timeMonth": 995,
     "timeYear": 877,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "PIPELINE API",
+    "url": "$PIPELINE_API",
+    "icon": "https://aws.amazon.com/favicon.ico",
+    "slug": "pipeline-api",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]

@@ -1,7 +1,7 @@
 url: $INFERENCE_API
 status: up
 code: 200
-responseTime: 154
-lastUpdated: 2023-03-27T23:09:00.564Z
+responseTime: 120
+lastUpdated: 2023-03-29T23:08:38.020Z
 startTime: Thu Jan 26 2023 16:27:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
